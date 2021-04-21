@@ -23,4 +23,5 @@ Fall 2020
 ## Course Project
 
 Zero-shot Classification
+
 Repository [here](https://github.com/Sagar-py/zero-shot-classification)
